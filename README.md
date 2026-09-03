@@ -26,6 +26,12 @@ https://cdn.jsdelivr.net/gh/用户名/仓库名@master/tvbox.json
 https://ghfast.top/https://raw.githubusercontent.com/用户名/仓库名/master/tvbox.json
 ```
 
+## 导入失败（解析失败）排查
+
+1. **入口填错**：多仓链接必须填在「配置订阅 / 多仓 / 订阅」入口；填进「配置地址」（主接口）会报解析失败。找不到该入口的版本不支持多仓，请换 takagen99 版 TVBox 或影视仓。
+2. **raw 直连不通**：国内网络访问 raw.githubusercontent.com 不稳定，优先用上面的 jsDelivr / ghfast 前缀链接。
+3. **兜底**：任选 `tvbox.json` 里的一条源 URL 直接填入「配置地址」即可单源使用。
+
 ## 本地运行
 
 ```bash
