@@ -61,9 +61,9 @@ Noimank · 多仓|https://gh-proxy.com/https://raw.githubusercontent.com/noimank
 https://bitbucket.org/xduo/duoapi/raw/master/xpg.json|https://bitbucket.org/xduo/duoapi/raw/master/xpg.json
 zwz|https://api.starlink.fan/api/FwaII1.json
 zy|https://raw.githubusercontent.com/PickPunk/TVbox-ZYplayer/refs/heads/main/ZY.json
-PG|https://www.252035.xyz/p/jsm.json
 tvbox放飞|https://jinenge.us.kg/app/tvbox/tvbox.json
 拾光多仓|http://xmbjm.fh4u.org/dc.txt
+我的|https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 我的|https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/refs/heads/main/OS.json
 广东体育|https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 1|https://700sjro44343.vicp.fun/240731/one/duo.txt

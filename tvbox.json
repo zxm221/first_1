@@ -253,16 +253,16 @@
    "url": "https://raw.githubusercontent.com/PickPunk/TVbox-ZYplayer/refs/heads/main/ZY.json"
   },
   {
-   "name": "PG",
-   "url": "https://www.252035.xyz/p/jsm.json"
-  },
-  {
    "name": "tvbox放飞",
    "url": "https://jinenge.us.kg/app/tvbox/tvbox.json"
   },
   {
    "name": "拾光多仓",
    "url": "http://xmbjm.fh4u.org/dc.txt"
+  },
+  {
+   "name": "我的",
+   "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
   },
   {
    "name": "我的",
