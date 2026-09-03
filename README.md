@@ -16,14 +16,14 @@
 把下面的 `用户名` 和 `仓库名` 换成你自己的，填入 TVBox「设置 → 配置订阅（多仓）」：
 
 ```
-https://raw.githubusercontent.com/用户名/仓库名/main/tvbox.json
+https://raw.githubusercontent.com/用户名/仓库名/master/tvbox.json
 ```
 
 国内访问较慢时可加 CDN 前缀（任选其一）：
 
 ```
-https://cdn.jsdelivr.net/gh/用户名/仓库名@main/tvbox.json
-https://ghfast.top/https://raw.githubusercontent.com/用户名/仓库名/main/tvbox.json
+https://cdn.jsdelivr.net/gh/用户名/仓库名@master/tvbox.json
+https://ghfast.top/https://raw.githubusercontent.com/用户名/仓库名/master/tvbox.json
 ```
 
 ## 本地运行
