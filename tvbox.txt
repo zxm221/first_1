@@ -61,6 +61,7 @@ Noimank · 多仓|https://gh-proxy.com/https://raw.githubusercontent.com/noimank
 https://bitbucket.org/xduo/duoapi/raw/master/xpg.json|https://bitbucket.org/xduo/duoapi/raw/master/xpg.json
 zwz|https://api.starlink.fan/api/FwaII1.json
 zy|https://raw.githubusercontent.com/PickPunk/TVbox-ZYplayer/refs/heads/main/ZY.json
+PG|https://www.252035.xyz/p/jsm.json
 tvbox放飞|https://jinenge.us.kg/app/tvbox/tvbox.json
 拾光多仓|http://xmbjm.fh4u.org/dc.txt
 我的|https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
