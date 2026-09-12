@@ -69,7 +69,6 @@ tvbox放飞|https://jinenge.us.kg/app/tvbox/tvbox.json
 广东体育|https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 1|https://700sjro44343.vicp.fun/240731/one/duo.txt
 接口|https://700sjro44343.vicp.fun/vip/vip/duo.txt
-摸鱼主用二|https://xn--ihqu10cn4c.xn--v4q818bf34b.cc
 |号线路|https://cnb.cool/srka/aow/-/git/raw/main/config
 直播|https://mpimg.cn/text.php?hash=aeada10283cf466c508e6b05b5a11719
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
