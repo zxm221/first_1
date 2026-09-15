@@ -81,6 +81,10 @@
    "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json"
   },
   {
+   "name": "cs",
+   "url": "http://tv.nxog.top/m/"
+  },
+  {
    "name": "软件",
    "url": "http://47.96.82.41:5188/api.json"
   },
@@ -197,8 +201,16 @@
    "url": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"
   },
   {
+   "name": "哦",
+   "url": "https://a.nxog.top?mm=328&ou=%E8%A3%85%F0%9F%85%B1"
+  },
+  {
    "name": "45",
    "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json"
+  },
+  {
+   "name": "欧哥",
+   "url": "https://tv.nxog.top/m"
   },
   {
    "name": "宝盒VIP",
@@ -211,6 +223,10 @@
   {
    "name": "111",
    "url": "https://raw.githubusercontent.com/wwb521/live/refs/heads/main/video.json"
+  },
+  {
+   "name": "謳歌",
+   "url": "http://tv.nxog.top/"
   },
   {
    "name": "直播电视IPV4",
@@ -239,10 +255,6 @@
   {
    "name": "极速",
    "url": "https://jszyapi.com/api.php/provide/vod/at/json"
-  },
-  {
-   "name": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
-   "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"
   },
   {
    "name": "zwz",
@@ -319,6 +331,10 @@
   {
    "name": "饭太硬",
    "url": "http://fty.xxooo.cf/tv"
+  },
+  {
+   "name": "欧拉",
+   "url": "http://tv.nxog.top"
   },
   {
    "name": "我的",

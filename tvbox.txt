@@ -18,6 +18,7 @@ ok|https://raw.liucn.cc/box/m.json
 荐片|https://tv.203511.xyz/0821.json
 my interface|http://124.223.214.31:8/api.json
 1|https://700sjro44343.vicp.fun/vip/vip/tv.json
+cs|http://tv.nxog.top/m/
 软件|http://47.96.82.41:5188/api.json
 ok|https://gist.githubusercontent.com/ph7368/20ee6c7b64d77d82f8f4162cdd04ad61/raw/gistfile1.txt
 11|https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
@@ -47,10 +48,13 @@ vv|https://qist.wyfc.qzz.io/jsm.json
 01|https://pz.v88.qzz.io?format=2&source=full
 00000|https://d.kstore.dev/download/14782/%E5%BD%B1%E8%A7%86%E4%BB%93.json
 apple|https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json
+哦|https://a.nxog.top?mm=328&ou=%E8%A3%85%F0%9F%85%B1
 45|https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json
+欧哥|https://tv.nxog.top/m
 宝盒VIP|https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json
 高级的很|https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json
 111|https://raw.githubusercontent.com/wwb521/live/refs/heads/main/video.json
+謳歌|http://tv.nxog.top/
 直播电视IPV4|https://live.zbds.top/tv/iptv4.txt
 1|http://8.138.7.223/tv.txt
 月光宝盒|https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json
@@ -58,7 +62,6 @@ https://www.ls660.com/TV/feimao.json|https://www.ls660.com/TV/feimao.json
 我的|https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 Noimank · 多仓|https://gh-proxy.com/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json
 极速|https://jszyapi.com/api.php/provide/vod/at/json
-https://bitbucket.org/xduo/duoapi/raw/master/xpg.json|https://bitbucket.org/xduo/duoapi/raw/master/xpg.json
 zwz|https://api.starlink.fan/api/FwaII1.json
 zy|https://raw.githubusercontent.com/PickPunk/TVbox-ZYplayer/refs/heads/main/ZY.json
 PG|https://www.252035.xyz/p/jsm.json
@@ -78,6 +81,7 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u|http
 我的TV接口|http://z.qiqiv.cn/123.txt
 大嗷呜|https://9763.kstore.vip/aowu.json
 饭太硬|http://fty.xxooo.cf/tv
+欧拉|http://tv.nxog.top
 我的|https://iptv-org.github.io/iptv/categories/news.m3u
 王二小放牛娃|https://www.xn--4kq62z5rby2qupq9ub.top/
 noimank|https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json
