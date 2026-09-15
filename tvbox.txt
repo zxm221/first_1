@@ -11,7 +11,6 @@
 潇洒|https://qist.wyfc.qzz.io/xiaosa/api.json
 牛二|https://9280.kstore.space/newwex.json
 uuccc|http://xn--5mqx81b535a.com/
-fmys|http://fmys.top/fmys.json
 苍蓝|https://13537.kstore.vip/tvbox/test.json
 饭太硬|http://fty.888484.xyz/tv
 ok|https://raw.liucn.cc/box/m.json
