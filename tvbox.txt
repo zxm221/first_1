@@ -4,6 +4,7 @@
 二月红接口|https://700sjro44343.vicp.fun/eggp/0211/tv.json
 影视仓|http://影视仓.com/
 俊哥接口|http://home.jundie.top:81/top98.json
+欧歌免费|https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv
 王二小接口|http://tvbox.xn--4kq62z5rby2qupq9ub.top/
 王二小放牛娃|http://tv.999888987.xyz
 饭太硬|https://qist.wyfc.qzz.io/fty.json
@@ -17,6 +18,7 @@ ok|https://raw.liucn.cc/box/m.json
 荐片|https://tv.203511.xyz/0821.json
 my interface|http://124.223.214.31:8/api.json
 1|https://700sjro44343.vicp.fun/vip/vip/tv.json
+cs|http://tv.nxog.top/m/
 软件|http://47.96.82.41:5188/api.json
 ok|https://gist.githubusercontent.com/ph7368/20ee6c7b64d77d82f8f4162cdd04ad61/raw/gistfile1.txt
 11|https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
@@ -48,6 +50,7 @@ vv|https://qist.wyfc.qzz.io/jsm.json
 apple|https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json
 哦|https://a.nxog.top?mm=328&ou=%E8%A3%85%F0%9F%85%B1
 45|https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json
+欧哥|https://tv.nxog.top/m
 宝盒VIP|https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json
 高级的很|https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json
 111|https://raw.githubusercontent.com/wwb521/live/refs/heads/main/video.json
@@ -58,6 +61,7 @@ apple|https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json
 https://www.ls660.com/TV/feimao.json|https://www.ls660.com/TV/feimao.json
 我的|https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 Noimank · 多仓|https://gh-proxy.com/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json
+11|http://a.nxog.top/m/111.php?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&mz=index&jar=index&123&b=tv
 极速|https://jszyapi.com/api.php/provide/vod/at/json
 zwz|https://api.starlink.fan/api/FwaII1.json
 zy|https://raw.githubusercontent.com/PickPunk/TVbox-ZYplayer/refs/heads/main/ZY.json
@@ -65,8 +69,8 @@ PG|https://www.252035.xyz/p/jsm.json
 tvbox放飞|https://jinenge.us.kg/app/tvbox/tvbox.json
 拾光多仓|http://xmbjm.fh4u.org/dc.txt
 我的|https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
+装歌|https://tv.nxog.top/m/111.php
 我的|https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/refs/heads/main/OS.json
-广东体育|https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 1|https://700sjro44343.vicp.fun/240731/one/duo.txt
 接口|https://700sjro44343.vicp.fun/vip/vip/duo.txt
 |号线路|https://cnb.cool/srka/aow/-/git/raw/main/config
