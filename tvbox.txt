@@ -17,7 +17,6 @@ ok|https://raw.liucn.cc/box/m.json
 荐片|https://tv.203511.xyz/0821.json
 my interface|http://124.223.214.31:8/api.json
 1|https://700sjro44343.vicp.fun/vip/vip/tv.json
-cs|http://tv.nxog.top/m/
 软件|http://47.96.82.41:5188/api.json
 ok|https://gist.githubusercontent.com/ph7368/20ee6c7b64d77d82f8f4162cdd04ad61/raw/gistfile1.txt
 11|https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
@@ -49,7 +48,6 @@ vv|https://qist.wyfc.qzz.io/jsm.json
 apple|https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json
 哦|https://a.nxog.top?mm=328&ou=%E8%A3%85%F0%9F%85%B1
 45|https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json
-欧哥|https://tv.nxog.top/m
 宝盒VIP|https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json
 高级的很|https://gh-proxy.org/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json
 111|https://raw.githubusercontent.com/wwb521/live/refs/heads/main/video.json
@@ -84,3 +82,11 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u|http
 我的|https://iptv-org.github.io/iptv/categories/news.m3u
 王二小放牛娃|https://www.xn--4kq62z5rby2qupq9ub.top/
 noimank|https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json
+1|https://gitee.com/zhel-yong/doudou-movies--tv/blob/master/%E8%B1%86%E8%B1%86%E5%BD%B1%E8%A7%86.json
+影视仓2|http://Link3.cc/uuccc
+TvBox 多仓|https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
+TvBox 单仓|https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
+接口|https://android.lushunming.qzz.io/json/index.json
+https://clun.top/fun.json|https://clun.top/fun.json
+1|http://xtvantsc.xyz/4gtv.json
+tv|https://www.252035.xyz/z/FongMi.json
