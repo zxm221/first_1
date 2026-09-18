@@ -6,7 +6,6 @@
 俊哥接口|http://home.jundie.top:81/top98.json
 欧歌免费|https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv
 王二小接口|http://tvbox.xn--4kq62z5rby2qupq9ub.top/
-王二小放牛娃|http://tv.999888987.xyz
 饭太硬|https://qist.wyfc.qzz.io/fty.json
 宝盒接口|http://宝盒接口.top
 潇洒|https://qist.wyfc.qzz.io/xiaosa/api.json
@@ -73,6 +72,7 @@ tvbox放飞|https://jinenge.us.kg/app/tvbox/tvbox.json
 我的|https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/refs/heads/main/OS.json
 1|https://700sjro44343.vicp.fun/240731/one/duo.txt
 接口|https://700sjro44343.vicp.fun/vip/vip/duo.txt
+摸鱼主用二|https://xn--ihqu10cn4c.xn--v4q818bf34b.cc
 |号线路|https://cnb.cool/srka/aow/-/git/raw/main/config
 直播|https://mpimg.cn/text.php?hash=aeada10283cf466c508e6b05b5a11719
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u|https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
