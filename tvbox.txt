@@ -72,6 +72,7 @@ tvbox放飞|https://jinenge.us.kg/app/tvbox/tvbox.json
 我的|https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 装歌|https://tv.nxog.top/m/111.php
 我的|https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/refs/heads/main/OS.json
+广东体育|https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 1|https://700sjro44343.vicp.fun/240731/one/duo.txt
 接口|https://700sjro44343.vicp.fun/vip/vip/duo.txt
 摸鱼主用二|https://xn--ihqu10cn4c.xn--v4q818bf34b.cc
