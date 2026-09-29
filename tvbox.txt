@@ -28,6 +28,7 @@ xn--6orr3pi6g9uu|http://xn--6orr3pi6g9uu.top/
 https://700sjro44343.vicp.fun/eggp/0615/tv.php|https://700sjro44343.vicp.fun/eggp/0615/tv.php
 http://www.xn--sss604efuw.net/tv|http://www.xn--sss604efuw.net/tv
 牛儿|https://9280.kstore.space/wex.json
+金鹰|http://550.3vcn.work/wdjyys.json
 66|https://raw.gitcode.com/jvftibcs-jbduyh/021/raw/main/18.json
 2|https://gitee.com/fuleishu/fulei/raw/master/fuleixyx.json
 1|https://9280.kstore.vip/aiwex.json
@@ -83,7 +84,6 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u|http
 123|http://47.96.82.41:5188/rose/18/xgg.json
 我的TV接口|http://z.qiqiv.cn/123.txt
 大嗷呜|https://9763.kstore.vip/aowu.json
-饭太硬|http://fty.xxooo.cf/tv
 欧拉|http://tv.nxog.top
 我的|https://iptv-org.github.io/iptv/categories/news.m3u
 王二小放牛娃|https://www.xn--4kq62z5rby2qupq9ub.top/
