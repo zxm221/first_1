@@ -93,7 +93,6 @@ noimank|https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json
 TvBox 多仓|https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
 TvBox 单仓|https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
 接口|https://android.lushunming.qzz.io/json/index.json
-https://clun.top/fun.json|https://clun.top/fun.json
 1|http://xtvantsc.xyz/4gtv.json
 游魂多仓|https://www.iyouhun.com/tv/dc
 tv|https://www.252035.xyz/z/FongMi.json
