@@ -72,6 +72,7 @@ tvbox放飞|https://jinenge.us.kg/app/tvbox/tvbox.json
 我的|https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 装歌|https://tv.nxog.top/m/111.php
 我的|https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/refs/heads/main/OS.json
+广东体育|https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 1|https://700sjro44343.vicp.fun/240731/one/duo.txt
 接口|https://700sjro44343.vicp.fun/vip/vip/duo.txt
 摸鱼主用二|https://xn--ihqu10cn4c.xn--v4q818bf34b.cc
@@ -93,6 +94,7 @@ noimank|https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json
 TvBox 多仓|https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
 TvBox 单仓|https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
 接口|https://android.lushunming.qzz.io/json/index.json
+https://clun.top/fun.json|https://clun.top/fun.json
 1|http://xtvantsc.xyz/4gtv.json
 游魂多仓|https://www.iyouhun.com/tv/dc
 tv|https://www.252035.xyz/z/FongMi.json
