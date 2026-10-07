@@ -2,9 +2,9 @@
  "spider": "",
  "lives": [
   {
-   "name": "clbug-IPTV直播合集(1万+)",
+   "name": "clbug-IPTV(实测活源)",
    "type": 0,
-   "url": "https://cdn.jsdelivr.net/gh/zxm221/first_1@master/iptv.m3u",
+   "url": "https://cdn.jsdelivr.net/gh/zxm221/first_1@master/iptv_live.m3u",
    "epg": "http://epg.51zmt.top:8000/api/diyp/",
    "ua": "",
    "playerType": 0
