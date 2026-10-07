@@ -21,8 +21,11 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run scraper
+      - name: Run tvbox scraper
         run: python tvbox_updater.py
+
+      - name: Run IPTV scraper + probe
+        run: python iptv_updater.py
 
       - name: Commit & push if changed
         run: |
