@@ -8,6 +8,7 @@
 王二小接口|http://tvbox.xn--4kq62z5rby2qupq9ub.top/
 王二小放牛娃|http://tv.999888987.xyz
 饭太硬|https://qist.wyfc.qzz.io/fty.json
+宝盒接口|http://宝盒接口.top
 潇洒|https://qist.wyfc.qzz.io/xiaosa/api.json
 牛二|https://9280.kstore.space/newwex.json
 uuccc|http://xn--5mqx81b535a.com/
@@ -22,6 +23,7 @@ cs|http://tv.nxog.top/m/
 软件|http://47.96.82.41:5188/api.json
 ok|https://gist.githubusercontent.com/ph7368/20ee6c7b64d77d82f8f4162cdd04ad61/raw/gistfile1.txt
 11|https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
+xn--6orr3pi6g9uu|http://xn--6orr3pi6g9uu.top/
 摸鱼儿|https://6800.kstore.vip/fish.json
 https://700sjro44343.vicp.fun/eggp/0615/tv.php|https://700sjro44343.vicp.fun/eggp/0615/tv.php
 http://www.xn--sss604efuw.net/tv|http://www.xn--sss604efuw.net/tv
@@ -41,7 +43,6 @@ liu123|http://xhztv.top/dc
 我|https://dxawi.github.io/0/0.json
 https://9280.kstore.space/wex.json|https://9280.kstore.space/wex.json
 帆帆帆帆|https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt
-vv|https://qist.wyfc.qzz.io/jsm.json
 御制(无采集)-加速|https://yqx.imgos.cn/yqx/tv/yqx2.json
 01|https://pz.v88.qzz.io?format=2&source=full
 00000|https://d.kstore.dev/download/14782/%E5%BD%B1%E8%A7%86%E4%BB%93.json
@@ -90,7 +91,6 @@ noimank|https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json
 影视仓2|http://Link3.cc/uuccc
 TvBox 多仓|https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt
 TvBox 单仓|https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json
-接口|https://android.lushunming.qzz.io/json/index.json
 https://clun.top/fun.json|https://clun.top/fun.json
 1|http://xtvantsc.xyz/4gtv.json
 游魂多仓|https://www.iyouhun.com/tv/dc

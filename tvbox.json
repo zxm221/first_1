@@ -41,6 +41,10 @@
    "url": "https://qist.wyfc.qzz.io/fty.json"
   },
   {
+   "name": "宝盒接口",
+   "url": "http://宝盒接口.top"
+  },
+  {
    "name": "潇洒",
    "url": "https://qist.wyfc.qzz.io/xiaosa/api.json"
   },
@@ -95,6 +99,10 @@
   {
    "name": "11",
    "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"
+  },
+  {
+   "name": "xn--6orr3pi6g9uu",
+   "url": "http://xn--6orr3pi6g9uu.top/"
   },
   {
    "name": "摸鱼儿",
@@ -171,10 +179,6 @@
   {
    "name": "帆帆帆帆",
    "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt"
-  },
-  {
-   "name": "vv",
-   "url": "https://qist.wyfc.qzz.io/jsm.json"
   },
   {
    "name": "御制(无采集)-加速",
@@ -367,10 +371,6 @@
   {
    "name": "TvBox 单仓",
    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json"
-  },
-  {
-   "name": "接口",
-   "url": "https://android.lushunming.qzz.io/json/index.json"
   },
   {
    "name": "https://clun.top/fun.json",
