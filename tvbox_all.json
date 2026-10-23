@@ -1,10 +1,6 @@
 {
  "urls": [
   {
-   "name": "欧歌接口",
-   "url": "https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3"
-  },
-  {
    "name": "小盒子4K",
    "url": "http://xhztv.top/4k.json"
   },

@@ -37,6 +37,10 @@
    "url": "http://tv.999888987.xyz"
   },
   {
+   "name": "饭太硬",
+   "url": "https://qist.wyfc.qzz.io/fty.json"
+  },
+  {
    "name": "宝盒接口",
    "url": "http://宝盒接口.top"
   },
@@ -175,6 +179,10 @@
   {
    "name": "御制(无采集)-加速",
    "url": "https://yqx.imgos.cn/yqx/tv/yqx2.json"
+  },
+  {
+   "name": "01",
+   "url": "https://pz.v88.qzz.io?format=2&source=full"
   },
   {
    "name": "00000",
@@ -359,6 +367,10 @@
   {
    "name": "TvBox 单仓",
    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json"
+  },
+  {
+   "name": "接口",
+   "url": "https://android.lushunming.qzz.io/json/index.json"
   },
   {
    "name": "https://clun.top/fun.json",
