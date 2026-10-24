@@ -45,6 +45,10 @@
    "url": "http://宝盒接口.top"
   },
   {
+   "name": "潇洒",
+   "url": "https://qist.wyfc.qzz.io/xiaosa/api.json"
+  },
+  {
    "name": "牛二",
    "url": "https://9280.kstore.space/newwex.json"
   },
@@ -175,6 +179,10 @@
   {
    "name": "帆帆帆帆",
    "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt"
+  },
+  {
+   "name": "vv",
+   "url": "https://qist.wyfc.qzz.io/jsm.json"
   },
   {
    "name": "御制(无采集)-加速",
