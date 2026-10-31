@@ -30,6 +30,7 @@ http://www.xn--sss604efuw.net/tv|http://www.xn--sss604efuw.net/tv
 牛儿|https://9280.kstore.space/wex.json
 金鹰|http://550.3vcn.work/wdjyys.json
 66|https://raw.gitcode.com/jvftibcs-jbduyh/021/raw/main/18.json
+2|https://gitee.com/fuleishu/fulei/raw/master/fuleixyx.json
 1|https://9280.kstore.vip/aiwex.json
 liu123|http://xhztv.top/dc
 蚂蚁|https://www.mayi520.org/
@@ -69,7 +70,6 @@ tvbox放飞|https://jinenge.us.kg/app/tvbox/tvbox.json
 我的|https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 装歌|https://tv.nxog.top/m/111.php
 我的|https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/refs/heads/main/OS.json
-广东体育|https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 1|https://700sjro44343.vicp.fun/240731/one/duo.txt
 接口|https://700sjro44343.vicp.fun/vip/vip/duo.txt
 摸鱼主用二|https://xn--ihqu10cn4c.xn--v4q818bf34b.cc
