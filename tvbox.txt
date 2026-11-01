@@ -38,7 +38,6 @@ liu123|http://xhztv.top/dc
 多个多仓|http://raw.liucn.cc/box/dc.txt
 【8月8日】最新【影视仓】高清【1080P】高速接口地址【支持弹幕】|http://124.223.214.31:16/8888
 5|https://gh-proxy.org/https://raw.github.com/tly824/TM-TY/main/8.10.json
-11|https://ghfast.top/raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba1.txt
 香雅情|https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
 我|https://dxawi.github.io/0/0.json
 https://9280.kstore.space/wex.json|https://9280.kstore.space/wex.json
@@ -70,6 +69,7 @@ tvbox放飞|https://jinenge.us.kg/app/tvbox/tvbox.json
 我的|https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json
 装歌|https://tv.nxog.top/m/111.php
 我的|https://gh-proxy.org/raw.githubusercontent.com/bin1site1/bin1site1.github.io/refs/heads/main/OS.json
+广东体育|https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 1|https://700sjro44343.vicp.fun/240731/one/duo.txt
 接口|https://700sjro44343.vicp.fun/vip/vip/duo.txt
 摸鱼主用二|https://xn--ihqu10cn4c.xn--v4q818bf34b.cc
