@@ -1,12 +1,12 @@
 {
  "urls": [
   {
-   "name": "王二小接口",
-   "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
-  },
-  {
    "name": "影视仓",
    "url": "http://影视仓.com/"
+  },
+  {
+   "name": "王二小接口",
+   "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"
   },
   {
    "name": "王二小",
@@ -19,14 +19,6 @@
   {
    "name": "二月红接口",
    "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json"
-  },
-  {
-   "name": "俊哥接口",
-   "url": "http://home.jundie.top:81/top98.json"
-  },
-  {
-   "name": "欧歌免费",
-   "url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv"
   },
   {
    "name": "王二小放牛娃",
@@ -49,24 +41,12 @@
    "url": "https://9280.kstore.space/newwex.json"
   },
   {
-   "name": "uuccc",
-   "url": "http://xn--5mqx81b535a.com/"
-  },
-  {
-   "name": "苍蓝",
-   "url": "https://13537.kstore.vip/tvbox/test.json"
-  },
-  {
    "name": "饭太硬",
    "url": "http://fty.888484.xyz/tv"
   },
   {
    "name": "新接口",
    "url": "https://www.iyouhun.com/tv/wex"
-  },
-  {
-   "name": "ok",
-   "url": "https://raw.liucn.cc/box/m.json"
   },
   {
    "name": "荐片",
@@ -77,24 +57,12 @@
    "url": "http://124.223.214.31:8/api.json"
   },
   {
-   "name": "1",
-   "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json"
-  },
-  {
-   "name": "cs",
-   "url": "http://tv.nxog.top/m/"
-  },
-  {
    "name": "软件",
    "url": "http://47.96.82.41:5188/api.json"
   },
   {
    "name": "ok",
    "url": "https://gist.githubusercontent.com/ph7368/20ee6c7b64d77d82f8f4162cdd04ad61/raw/gistfile1.txt"
-  },
-  {
-   "name": "11",
-   "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"
   },
   {
    "name": "xn--6orr3pi6g9uu",
@@ -123,6 +91,10 @@
   {
    "name": "66",
    "url": "https://raw.gitcode.com/jvftibcs-jbduyh/021/raw/main/18.json"
+  },
+  {
+   "name": "2",
+   "url": "https://gitee.com/fuleishu/fulei/raw/master/fuleixyx.json"
   },
   {
    "name": "1",
@@ -171,14 +143,6 @@
   {
    "name": "帆帆帆帆",
    "url": "https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt"
-  },
-  {
-   "name": "vv",
-   "url": "https://qist.wyfc.qzz.io/jsm.json"
-  },
-  {
-   "name": "01",
-   "url": "https://pz.v88.qzz.io?format=2&source=full"
   },
   {
    "name": "00000",
@@ -355,10 +319,6 @@
   {
    "name": "影视仓2",
    "url": "http://Link3.cc/uuccc"
-  },
-  {
-   "name": "TvBox 多仓",
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.txt"
   },
   {
    "name": "TvBox 单仓",
